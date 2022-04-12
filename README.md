@@ -2,7 +2,6 @@
 
 作者：datamonday
 
-贡献者：datamonday
 
 Github：https://github.com/datamonday/Time-Series-Forecasting-Algorithm
 
@@ -15,6 +14,9 @@ CSDN：[原理+论文+实战：60篇由浅入深的时间序列预测/分类教�
 ---
 
 # 更新日志
+## 2022-04-12
+How to Convert a Time Series to a Supervised Learning Problem in Python  https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/  
+Comparing Classical and Machine Learning Algorithms for Time Series Forecasting https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/
 
 ## 2021-06-01
 
