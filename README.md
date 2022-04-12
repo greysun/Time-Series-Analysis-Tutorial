@@ -1,7 +1,7 @@
 # 时间序列分析——分类与预测教程
+更新修订：greysun
 
-作者：datamonday
-
+原文作者：datamonday
 
 Github：https://github.com/datamonday/Time-Series-Forecasting-Algorithm
 
