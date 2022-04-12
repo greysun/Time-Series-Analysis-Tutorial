@@ -19,6 +19,8 @@ CSDN：[原理+论文+实战：60篇由浅入深的时间序列预测/分类教�
 How to Convert a Time Series to a Supervised Learning Problem in Python  https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/  
 Comparing Classical and Machine Learning Algorithms for Time Series Forecasting https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/
 How to Develop Multilayer Perceptron Models for Time Series Forecasting https://machinelearningmastery.com/how-to-develop-multilayer-perceptron-models-for-time-series-forecasting/
+How to Develop Convolutional Neural Network Models for Time Series Forecasting  https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/
+
 
 ## 2021-06-01
 
