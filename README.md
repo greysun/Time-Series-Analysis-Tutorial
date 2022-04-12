@@ -2,8 +2,10 @@
 更新修订：greysun
 
 原文作者：datamonday
+参考作者：Jason Brownlee
 
 Github：https://github.com/datamonday/Time-Series-Forecasting-Algorithm
+Github: https://github.com/austinmw/Introduction-to-Time-Series-Forecasting-with-Python
 
 CSDN：[原理+论文+实战：60篇由浅入深的时间序列预测/分类教程汇总](https://blog.csdn.net/weixin_39653948/article/details/105571760?spm=1001.2014.3001.5502)
 
