@@ -7,10 +7,6 @@ Github：https://github.com/datamonday/Time-Series-Forecasting-Algorithm
 
 CSDN：[原理+论文+实战：60篇由浅入深的时间序列预测/分类教程汇总](https://blog.csdn.net/weixin_39653948/article/details/105571760?spm=1001.2014.3001.5502)
 
-初次发布：2020-04-17
-
-最后修改：2021-06-01
-
 ---
 
 # 更新日志
@@ -20,6 +16,9 @@ How to Convert a Time Series to a Supervised Learning Problem in Python  https:/
 Comparing Classical and Machine Learning Algorithms for Time Series Forecasting https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/
 How to Develop Multilayer Perceptron Models for Time Series Forecasting https://machinelearningmastery.com/how-to-develop-multilayer-perceptron-models-for-time-series-forecasting/
 How to Develop Convolutional Neural Network Models for Time Series Forecasting  https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/
+How to Develop Multivariate Multi-Step Time Series Forecasting Models for Air Pollution  https://machinelearningmastery.com/how-to-develop-machine-learning-models-for-multivariate-multi-step-air-pollution-time-series-forecasting/
+How to Load, Visualize, and Explore a Multivariate Multistep Time Series Dataset https://machinelearningmastery.com/how-to-load-visualize-and-explore-a-complex-multivariate-multistep-time-series-forecasting-dataset/
+Multistep Time Series Forecasting with LSTMs in Python https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/
 
 
 ## 2021-06-01
