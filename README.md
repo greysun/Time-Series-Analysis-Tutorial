@@ -22,6 +22,8 @@ How to Develop Multivariate Multi-Step Time Series Forecasting Models for Air Po
 How to Load, Visualize, and Explore a Multivariate Multistep Time Series Dataset https://machinelearningmastery.com/how-to-load-visualize-and-explore-a-complex-multivariate-multistep-time-series-forecasting-dataset/
 Multistep Time Series Forecasting with LSTMs in Python https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/
 
+ Multivariate Time Series Forecasting with LSTMs in Keras https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/?continueFlag=c1aaa8517d04fe7afc93bdba0d1d4142 
+
 
 ## 2021-06-01
 
