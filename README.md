@@ -15,14 +15,20 @@ CSDN：[原理+论文+实战：60篇由浅入深的时间序列预测/分类教�
 ## 2022-04-12
 看这个更轻松，更清楚！
 How to Convert a Time Series to a Supervised Learning Problem in Python  https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/  
+
 Comparing Classical and Machine Learning Algorithms for Time Series Forecasting https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/
+
 How to Develop Multilayer Perceptron Models for Time Series Forecasting https://machinelearningmastery.com/how-to-develop-multilayer-perceptron-models-for-time-series-forecasting/
+
 How to Develop Convolutional Neural Network Models for Time Series Forecasting  https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/
+
 How to Develop Multivariate Multi-Step Time Series Forecasting Models for Air Pollution  https://machinelearningmastery.com/how-to-develop-machine-learning-models-for-multivariate-multi-step-air-pollution-time-series-forecasting/
+
 How to Load, Visualize, and Explore a Multivariate Multistep Time Series Dataset https://machinelearningmastery.com/how-to-load-visualize-and-explore-a-complex-multivariate-multistep-time-series-forecasting-dataset/
+
 Multistep Time Series Forecasting with LSTMs in Python https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/
 
- Multivariate Time Series Forecasting with LSTMs in Keras https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/?continueFlag=c1aaa8517d04fe7afc93bdba0d1d4142 
+Multivariate Time Series Forecasting with LSTMs in Keras https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/?continueFlag=c1aaa8517d04fe7afc93bdba0d1d4142 
 
 
 ## 2021-06-01
